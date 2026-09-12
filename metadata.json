@@ -1,0 +1,8 @@
+{
+  "name": "Hertz Contract Auto-Fill",
+  "description": "Streamline Hertz car rental contract by auto-filling from uploaded ID and Credit Card using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
